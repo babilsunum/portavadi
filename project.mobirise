@@ -111,7 +111,7 @@
               "src": "@PROJECT_PATH@/assets/images/babillogo-595x128-80.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "babilkulesi.com.tr",
+              "link": "http://babilkulesi.com.tr",
               "title": "",
               "linkInNewWindow": false
             },
@@ -136,8 +136,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc-panoramik.jpg",
@@ -299,8 +299,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-8",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/salon-1r-panoramik-1.jpg",
