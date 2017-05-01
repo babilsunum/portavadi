@@ -108,7 +108,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/babillogo2-594x128-43-594x128-1.png",
+              "src": "@PROJECT_PATH@/assets/images/babillogo-595x128-80.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "babilkulesi.com.tr",
@@ -140,7 +140,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc-panoramik.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -149,7 +149,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#5c626e",
+            "overlayColor": "#465574",
             "showTitle": true,
             "showText": false,
             "showButton": false
@@ -165,7 +165,10 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "text-align": "right",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -174,8 +177,8 @@
           "_name": "header3",
           "_anchor": "header3-4",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#1f1f21",
             "showMeta": false
           },
@@ -196,38 +199,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c01-d-cc-1920x1080-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c01-d-cc.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c02-d-cc-1920x1080-35.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c02-d-cc.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c03-d-cc-1920x1080-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c03-d-cc.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c04-d-cc-1920x1080-95.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c04-d-cc.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c01-d-cc-1-1920x1080-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c01-d-cc-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -236,38 +209,68 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc-2-1920x1080-19.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c02-d-cc-1-1920x1080-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c02-d-cc-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c06-d-cc-3-1920x1080-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c06-d-cc-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c03-d-cc-1-1920x1080-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c03-d-cc-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c07-d-cc-1920x1080-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c07-d-cc.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c04-d-cc-1-1920x1080-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c04-d-cc-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c08-d-cc-1920x1080-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c08-d-cc.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc-3-1920x1080-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c05-d-cc-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c06-d-cc-4-1920x1080-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c06-d-cc-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c07-d-cc-1-1920x1080-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c07-d-cc-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c08-d-cc-1-1920x1080-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/porta-vadi-draft-c08-d-cc-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -300,7 +303,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/salon-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/salon-1r-panoramik-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -309,7 +312,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#5c626e",
+            "overlayColor": "#465574",
             "showTitle": false,
             "showText": false,
             "showButton": false
@@ -325,7 +328,9 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -334,8 +339,8 @@
           "_name": "header3",
           "_anchor": "header3-5",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#1f1f21",
             "showMeta": false
           },
@@ -354,22 +359,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/salon-1r-1.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mutfak-1r-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/salon-1r-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -383,31 +374,45 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/masteroda-1r-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mutfak-1r-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
+                "title": "BACKGROUND VIDEO",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/banyo-1r-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/masteroda-1r-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
+                "title": "BACKGROUND VIDEO",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/banyo-1r-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
